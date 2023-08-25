@@ -6,7 +6,7 @@
 6) If you store data, how can users have that data removed?
 # 
 1) ai.AI bot collects:
-   * message-log (only in channels or (and) threads that has enabled live ai chat. with the bot command)
+   * message-log (only in channels or (and) threads that has enabled live ai chat with the bot command)
    * user discord ui language
    * user select lore & model
 2) Why do bot need that data?
